@@ -1,9 +1,9 @@
-# 3DCADの埋め込みリンク
+# 3DCADをリンクにして記事に埋め込む
 3DCADをウェブ上で表示するためのリポジトリ。  
 CADソフトのeDrawingsを用いて.htmlを作成する。  
 2023年度NHKロボコンで考案した機構の一部である。
 
-# 記事への埋め込み方
+## 記事への埋め込み方
 1. Githubにリポジトリを作成
 2. Upload existing filesを選んで生成したhtmlをアップロードしてコミット
 3. Settings > Pages > Branch をmainにする  
